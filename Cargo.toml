@@ -3,8 +3,7 @@ name = "tcslog-sample"
 version = "0.1.0"
 edition = "2021"
 rust-version = "1.75"
-authors = ["TCSpecial Team"]
-license = "MIT"
+license = "MIT OR Apache-2.0"
 repository = "https://github.com/vomlehn/tcslog-sample"
 description = "Sample code using tcslog: creates a chain of segment files filled with small ASCII messages"
 
